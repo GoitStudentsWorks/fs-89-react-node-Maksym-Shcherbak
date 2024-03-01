@@ -13,5 +13,5 @@ export default defineConfig({
       images: '/src/images',
     },
   },
-  base: '/makeYourParty/',
+  base: '/fs-89-react-node-Maksym-Shcherbak/',
 });
